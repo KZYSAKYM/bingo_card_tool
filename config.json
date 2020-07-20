@@ -1,0 +1,11 @@
+{
+    "bingo_template_path": "bingo_card_template.png",
+    "bingo_width_pos": [66, 174, 281, 391, 502],
+    "bingo_height_pos": [220, 330, 440, 550, 660],
+    "num_max": 80,
+    "num_min": 1,
+    "card_num": 100,
+    "font": "arial.ttf",
+    "font_size": 80,
+    "font_color": [20, 23, 26]
+}
